@@ -3,6 +3,7 @@ Composant
 composant_telecharge
 convoyeur
 Disque_frein
+ejecteur
 Mise_en_plan
 Notices
 Profile
