@@ -1,7 +1,13 @@
 convoyeur
 Disque_frein
 ejecteur
+prehenseur
 Profile
+translation_2_axes
 ejecteur\effecteur
 ejecteur\fixations
 ejecteur\verin
+translation_2_axes\Moteur
+translation_2_axes\Verin_Electrique
+translation_2_axes\Moteur\CREO6
+translation_2_axes\Verin_Electrique\CREO6

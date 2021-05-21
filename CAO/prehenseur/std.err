@@ -1,0 +1,234 @@
+clnttcp_create: connect failed, error = 10061, retrying
+%UIMSG-USER-ERROR, Did not find resource translation file "tree_node_tmpl_symb.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdscenegallery.txt"
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdutilappphotorealrend'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdUtilAppPhotoRealRend, from resource file: procmdutilappphotorealrend
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdutilappphotorealrendclose'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdUtilAppPhotoRealRendClose, from resource file: procmdutilappphotorealrendclose
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdmfgmilldrillcycle.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdmfgturndrillcycle.txt"
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: hover function already set
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdaogallerylist.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdpmaannotdim.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmddtlpushdimrbn.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdpmaoptdimorient.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdpmaoptdimarcattfirst.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdpmaoptdimarcattsec.txt"
+%UIMSG-USER-ERROR, Failed to preload image sp_128
+%UIMSG-USER-ERROR, Failed to preload image sp_129
+%UIMSG-USER-ERROR, Failed to preload image sp_130
+%UIMSG-USER-ERROR, Failed to preload image sp_131
+%UIMSG-USER-ERROR, Failed to preload image sp_132
+%UIMSG-USER-ERROR, Failed to preload image sp_133
+%UIMSG-USER-ERROR, Failed to preload image sp_134
+%UIMSG-USER-ERROR, Failed to preload image sp_135
+%UIMSG-USER-ERROR, Failed to preload image sp_136
+%UIMSG-USER-ERROR, Failed to preload image sp_137
+%UIMSG-USER-ERROR, Failed to preload image sp_138
+%UIMSG-USER-ERROR, Failed to preload image sp_139
+%UIMSG-USER-ERROR, Failed to preload image sp_140
+%UIMSG-USER-ERROR, Failed to preload image sp_141
+%UIMSG-USER-ERROR, Failed to preload image sp_142
+%UIMSG-USER-ERROR, Failed to preload image sp_143
+%UIMSG-USER-ERROR, Failed to preload image sp_144
+%UIMSG-USER-ERROR, Failed to preload image sp_145
+%UIMSG-USER-ERROR, Failed to preload image sp_146
+%UIMSG-USER-ERROR, Failed to preload image sp_147
+%UIMSG-USER-ERROR, Failed to preload image sp_148
+%UIMSG-USER-ERROR, Did not find resource translation file "procmdpmapshgtolinddtm.txt"
+%UIMSG-APPLICATION-ERROR, GetImageInfo: Failed to find image "imgf_col_16x16_0_33554431"
+%UIMSG-USER-ERROR, Did not find resource translation file "pro_rbn_intool toolbar menu.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "pro_rbn_minitoolbars.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "appl_menu_pane.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "ProTk_DB_dev.txt"
+%UIMSG-USER-ERROR, TitleBarImage "creo_logo_parametric.ico" is the wrong size (32x32) for main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Did not find item <PHTLeft.CeViewTabLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Did not find item <PHTLeft.HistLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-USER-ERROR, Did not find resource translation file "view_status_bar_layout.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "igt_status_bar_layout.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "StatusBarFindToolLayout.txt"
+%UIMSG-APPLICATION-ERROR, Parent RegenStatusBarComp.NmgrNotifStatusDrawarea resizing child RegenStatusBarComp.NmgrNotifStatusButton (2,0) (32x16) to be partially viewable in (0,0) (32x16)
+%UIMSG-APPLICATION-ERROR, Could not find component: proe_win, in device: rmb_popup, for retrieve
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../libs/prowtlibs"
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../proe/uitools"
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: EFX_ActionMenu_ProTk, in device: ProTk_DB_dev, to do operation
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.Folders@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.PHFolders.Nav_FT@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.PHFolders.TB_Shortcuts@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.PHFolders.sash_cmd_buttons@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'lc_invoke'
+%UIMSG-USER-ERROR, Failed to create device: LC_Invoke, from resource file: lc_invoke
+%UIMSG-APPLICATION-ERROR, Could not find component: user_standard_page_for_cust_ribbon_tb_start, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: user_standard_page_for_cust_ribbon_tb_end, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: psh_open, in device: pse_last_used_sess_dlg, for modify
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_projectcreate'
+%UIMSG-USER-ERROR, Failed to create device: EMX_ProjectCreate, from resource file: emx_projectcreate
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_configuration'
+%UIMSG-USER-ERROR, Failed to create device: EMX_Configuration, from resource file: emx_configuration
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_catalogeditor'
+%UIMSG-USER-ERROR, Failed to create device: EMX_CatalogEditor, from resource file: emx_catalogeditor
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_definelibrarycomp'
+%UIMSG-USER-ERROR, Failed to create device: EMX_DefineLibraryComp, from resource file: emx_definelibrarycomp
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_addformats'
+%UIMSG-USER-ERROR, Failed to create device: EMX_AddFormats, from resource file: emx_addformats
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_sethascotechcolor'
+%UIMSG-USER-ERROR, Failed to create device: EMX_SetHascoTechColor, from resource file: emx_sethascotechcolor
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_licenserelease'
+%UIMSG-USER-ERROR, Failed to create device: EMX_LicenseRelease, from resource file: emx_licenserelease
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_licenserequest'
+%UIMSG-USER-ERROR, Failed to create device: EMX_LicenseRequest, from resource file: emx_licenserequest
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_helpuserguide'
+%UIMSG-USER-ERROR, Failed to create device: EMX_HelpUserguide, from resource file: emx_helpuserguide
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'emx_helpabout'
+%UIMSG-USER-ERROR, Failed to create device: EMX_HelpAbout, from resource file: emx_helpabout
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'shc_lic_licborrow'
+%UIMSG-USER-ERROR, Failed to create device: shc_LIC_licborrow, from resource file: shc_lic_licborrow
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'shc_lic_request_lic'
+%UIMSG-USER-ERROR, Failed to create device: shc_LIC_request_lic, from resource file: shc_lic_request_lic
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'shc_lic_release_lic'
+%UIMSG-USER-ERROR, Failed to create device: shc_LIC_release_lic, from resource file: shc_lic_release_lic
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_open, for retrieve
+%UIMSG-USER-ERROR, Did not find resource translation file "list_sublay.txt"
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: , to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: , to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: , to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MeasurePointsDialog, in device: MeasurePointsDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MeasurePointsDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: EMXOptionsDialog, in device: EMXOptionsDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: EMXOptionsDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ComponentDialog, in device: ComponentDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ComponentDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ComponentDetailDialog, in device: ComponentDetailDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ComponentDetailDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: LibraryComponentDialog, in device: LibraryComponentDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: LibraryComponentDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MoldbaseDefinitionDialog, in device: MoldbaseDefinitionDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MoldbaseDefinitionDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: LoadMoldbaseDialog, in device: LoadMoldbaseDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: LoadMoldbaseDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MoldbaseMachineDialog, in device: MoldbaseMachineDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MoldbaseMachineDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MainAxisOffsetDialog, in device: MainAxisOffsetDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MainAxisOffsetDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: CavityLayoutDialog, in device: CavityLayoutDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: CavityLayoutDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: CavityCutoutDialog, in device: CavityCutoutDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: CavityCutoutDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MoldbasePatternDialog, in device: MoldbasePatternDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MoldbasePatternDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: SubassembliesAddDialog, in device: SubassembliesAddDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: SubassembliesAddDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: SubassembliesDeleteDialog, in device: SubassembliesDeleteDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: SubassembliesDeleteDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: PlateDialog, in device: PlateDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: PlateDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ProjectDialog, in device: ProjectDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ProjectDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: EditBillOfMaterialEntryDialog, in device: EditBillOfMaterialEntryDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: EditBillOfMaterialEntryDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: BillOfMaterialsDialog, in device: BillOfMaterialsDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: BillOfMaterialsDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: EditBillOfMaterialEntryDialog, in device: EditBillOfMaterialEntryDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: OpeningSimulationDialog, in device: OpeningSimulationDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: OpeningSimulationDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ClassifyProjectDialog, in device: ClassifyProjectDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ClassifyProjectDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: TechnologyColorsDialog, in device: TechnologyColorsDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: TechnologyColorsDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ComponentEditorDialog, in device: ComponentEditorDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ComponentEditorDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MoldbaseEditorDialog, in device: MoldbaseEditorDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MoldbaseEditorDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MultiCavityDialog, in device: MultiCavityDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MultiCavityDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ComponentStatusDialog, in device: ComponentStatusDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ComponentStatusDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: IdentifyTrimSurfaceDialog, in device: IdentifyTrimSurfaceDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: IdentifyTrimSurfaceDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: CreateWaterlineModelDialog, in device: CreateWaterlineModelDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: CreateWaterlineModelDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: SetAccuracyDialog, in device: SetAccuracyDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: SetAccuracyDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ExportElektrodePositionDialog, in device: ExportElektrodePositionDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ExportElektrodePositionDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: CalculateClampingforceDialog, in device: CalculateClampingforceDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: CalculateClampingforceDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: AssembleWaterlinesDialog, in device: AssembleWaterlinesDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: AssembleWaterlinesDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ModelSizeDialog, in device: ModelSizeDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ModelSizeDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: WhatsNewDialog, in device: WhatsNewDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: WhatsNewDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: UpdateLayerConceptDialog, in device: UpdateLayerConceptDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: UpdateLayerConceptDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: DeveloperToolsDialog, in device: DeveloperToolsDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: DeveloperToolsDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: ComponentStatisticsDialog, in device: ComponentStatisticsDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: ComponentStatisticsDialog, to exit
+%UIMSG-APPLICATION-ERROR, Could not find component: MessageBoxDialog, in device: MessageBoxDialog, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find device: MessageBoxDialog, to exit
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_on_update_func: Can't find component listen function on command
+%UIMSG-APPLICATION-ERROR, UI_global_remove_action_notifier_Op: No matching callback to remove

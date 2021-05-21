@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"10.01.17.00164";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"SCHMALZ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"33-13062019-088839";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Magnetic gripper";"";
+"TraceParts.InstanceId";"33-13062019-0888395WXXU5T38Q8A8VCDO78NCQAZ6";"";
+"TraceParts.PartTitle";"Magnetic grippers SGM";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"SELECTION";"SGM 50 G1/4-IG";"";
+"TraceParts.ClassPath";"SCHMALZ:33-13062019-088839";"";
