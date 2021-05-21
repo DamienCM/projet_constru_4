@@ -1,0 +1,81 @@
+﻿
+EN   Your download at 05/20/2021 on PARTcommunity/PARTserver:
+
+       Dear user,
+       
+       attached please find the following file of our 3D CAD download portal PARTcommunity/PARTserver powered by CADENAS:
+
+       
+
+       CREO6, BSE - 80/100 1 5 RC, srd044_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, vce518.prt.1
+       CREO6, BSE - 80/100 1 5 RC, vce616.prt.1
+       CREO6, BSE - 80/100 1 5 RC, cpr032_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, cuf083_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, bse_80_100_15___dummy.prt.1
+       CREO6, BSE - 80/100 1 5 RC, cpr034_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, riv004.prt.1
+       CREO6, BSE - 80/100 1 5 RC, bse_cnn012.prt.1
+       CREO6, BSE - 80/100 1 5 RC, rad075_bse__.prt.1
+       CREO6, BSE - 80/100 1 5 RC, trg003_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, bse___80_100_1_5_rc.asm.1
+       CREO6, BSE - 80/100 1 5 RC, dst014_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, alr077_bse_.prt.1
+       CREO6, BSE - 80/100 1 5 RC, bse_cnn043.prt.1
+       CREO6, BSE - 80/100 1 5 RC, vce258.prt.1
+	
+       Information for use:
+
+       
+       The attached file was compressed ("ZIP"), in order to ensure a faster download.
+       In order to unpack the file you need a special decompressing software. 
+
+       If you do not have a decompressing software installed, you can download it using one of the following links:
+       PKZip® (http://www.pkware.com) or WinZip® (http://www.winzip.com)
+
+       
+
+       Please also check terms of use at https://www.cadenas.de/terms-of-use-3d-cad-models
+
+       This is an automatically generated email from a system email address – please do not respond to it. If you have any questions, please feel free to contact the support directly.
+
+       Best regards
+
+       Your CADENAS GmbH
+       support@cadenas.de
+
+
+
+       >> Free APP for 3D CAD models <<
+       
+       Mobile access to 3D CAD models with your Smartphone or Tablet PC. 
+       
+       Download now at http://www.cadenas.de/en/app-store
+
+       
+
+       >> PARTcommunity - The network and information platform for engineers <<
+       
+       ■ Examples of use and ideas for components 
+       ■ Information and experience exchange with other engineers
+
+       Join the discussion now at http://www.partcommunity.com
+
+
+
+       >> PARTsolutions - Find & manage standard, purchased, and own parts <<
+
+       Reduce total product costs up to 70% in the development phase?
+
+       In many companies PARTsolutions is one of the leading software systems helping
+       engineers and purchasers to manage and find company-, supplier- and standard parts:
+
+       ■ PURCHINEERING: Optimize cooperation of Purchasing and Engineering
+       ■ Semiautomatic classification and intelligent search methods
+       ■ Open for all systems such as PLM and ERP
+
+       More information at http://www.cadenas.de/strategic-partsmanagement
+       
+       
+       
+       
