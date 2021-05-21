@@ -1,12 +1,7 @@
-Assemblage
-Composant
-composant_telecharge
 convoyeur
 Disque_frein
 ejecteur
-Mise_en_plan
-Notices
 Profile
-STL
+ejecteur\effecteur
 ejecteur\fixations
 ejecteur\verin
