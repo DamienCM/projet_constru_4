@@ -8,6 +8,8 @@ ejecteur\effecteur
 ejecteur\fixations
 ejecteur\verin
 translation_2_axes\Moteur
+translation_2_axes\Pieces
+translation_2_axes\Table_2_axes
 translation_2_axes\Verin_Electrique
 translation_2_axes\Moteur\CREO6
 translation_2_axes\Verin_Electrique\CREO6
